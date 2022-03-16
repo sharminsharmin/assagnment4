@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=League+Gothic&family=Mulish&family=Playfair+Display&family=Poppins:ital@0;1&family=Shizuru&family=Smooch+Sans&display=swap');
+body{
+    font-family: 'Mulish', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1152px;
+    margin: auto;
+}
+.bold{
+    font-weight: bold;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+menu ul li{
+    display: inline;
+ margin-left: 40px;
+}
+menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.img{
+    
+    width: 650px;
+}
+.healthcare{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+padding: 10px 20px;
+border-radius: 35px;
+margin-top: 20px;
+background-color: #458FF6;
+color: #FFFFFF;
+border: none;
+}
+.p{
+    color: #7D7987;
+    margin-top: 15px;
+}
+.our{
+    text-align: center;
+}
+.img-div2{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+margin-top:30px;
+row-gap: 40px;
+text-align: center;
+}
+.div{
+    width;40px;
+  
+}
+  .bt{
+    background-color: white;
+      padding: 10px 20px;
+      border-radius: 37.27px;
+      border: 1px solid #458FF6;
+      color: #458FF6;
+  }
+.bt{
+    margin-top: 20px 10px 20px 10px;
+    margin-top: 20px;
+   
+}
+.learn{
+    text-align: center;
+}
+.leading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.download{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-div6{
+ 
+}
+.img-div{
+    display: flex;
+    align-items: center;
+    column-gap: 100px;
+
+}
+.customer{
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+margin-top: 20px;
+color: #FFFFFF;
+}
+.cus{
+ 
+    margin-left: 100px;
+}
+.arrow-nav{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.article{
+  text-align: center;
+}
+.btno{
+    color:#458FF6;
+    border: none;
+    margin-top: 25px;
+}
+.view{
+    text-align: center;
+}
+.img-div{
+    margin-top: 40px;
+}
+.text-div{
+    margin-top: 30px;
+}
